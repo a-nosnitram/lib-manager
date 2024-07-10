@@ -1,1 +1,1 @@
-# library-manager-
+# lib-manager
